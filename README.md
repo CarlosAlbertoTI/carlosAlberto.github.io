@@ -13,8 +13,8 @@ Se você quiser saber mais sobre min, pode acessar [meu site](https://github.com
 - Desenvolvimento Web
 
 
-##Linguagens de programação que gosto
+## Linguagens de programação que gosto
 
-###Javascript
+### Javascript
 
 Gosto muito e tenho interesse em me tornar um Full-Stack Developer JS
