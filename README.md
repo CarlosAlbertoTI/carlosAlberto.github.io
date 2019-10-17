@@ -4,7 +4,7 @@
 
 Olá, eu sou Carlos Alberto e adoro Git e GitHub
 
-Se você quiser saber mais sobre min, pode acessar [meu site](www.github.com/CarlosAlbertoTI)
+Se você quiser saber mais sobre min, pode acessar [meu site](https://github.com/CarlosAlbertoTI)
 
 ## Cursos do Platzi que fiz
 
